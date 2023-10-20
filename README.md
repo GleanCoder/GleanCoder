@@ -1,9 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Aditya, A  Full-Stack  & Open-Source Enthusiastic 👨‍💻 </div>  
+  ### <div align="center">I'm Aditya, A  Full-Stack  & Open-Source Enthusiastic 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning  JavaScript  
