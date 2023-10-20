@@ -1,8 +1,8 @@
 
   ### <div align="center">I'm Aditya, A  Full-Stack  & Open-Source Enthusiastic 👨‍💻 </div>  
   
-
-- 🌱 I’m currently learning  JavaScript  
+  
+  - 🌱 I’m currently learning  JavaScript  
   
 
 - ❓ Ask me about anything related  Web technologies  
